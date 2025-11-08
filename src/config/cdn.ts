@@ -1,8 +1,8 @@
 // CDN Configuration for GitHub + jsDelivr
 
 // GitHub repository configuration
-const GITHUB_USER = 'rafaelpiro08-dot'; // Replace with your GitHub username
-const GITHUB_REPO = 'izibux-site'; // Replace with your repository name
+const GITHUB_USER = 'izibux'; // GitHub username
+const GITHUB_REPO = 'website-images'; // Repository name for images
 const GITHUB_BRANCH = 'main'; // or 'master' depending on your default branch
 
 // Base URL for jsDelivr CDN
